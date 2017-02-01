@@ -1,0 +1,15 @@
+html {
+  zoom: 150%;
+}
+
+h2 {
+  margin-bottom: 7px;
+}
+
+* {
+  margin: 2px;
+}
+
+.error {
+  color: red;
+}
